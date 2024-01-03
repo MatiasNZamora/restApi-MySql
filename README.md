@@ -9,5 +9,7 @@
 * nodemon
   
 ## Scripts: 
-  * "dev": "nodemon src/index.js,
-  * "start" :"node src/index.js"
+```bash
+   "dev": "nodemon src/index.js,
+   "start" :"node src/index.js"
+```
